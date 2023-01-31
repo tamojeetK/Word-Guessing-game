@@ -13,6 +13,10 @@ body {
   justify-content: center;
   background-image: url(https://www.hitbullseye.com/images/school.svg);
 }
+h3{
+  font-size: medium;
+  background-color: #1BB295;
+}
 
 .wrapper {
   width: 430px;
